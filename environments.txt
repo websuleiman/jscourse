@@ -1,0 +1,21 @@
+webpack [imports/exports]
+  babel
+  Scss
+  Eslint
+  2 Mods
+   - Dev
+     Dev Server, SourceMaps, Eslint, Not minified Js & CSS
+   - Prod
+     Minified Code
+git
+
+  Production
+  1.0.0
+  --------
+  Development
+  1.0.2
+  ----------
+  1. --------- + --   Pull Request
+  2. ----------
+  после одобренного pull request вторая ветка удаляется, и функционал становится в первой версии
+
